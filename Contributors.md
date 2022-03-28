@@ -7,6 +7,7 @@
 - [DevMaterial](https://github.com/DevMaterial)
 - [drac00l](https://github.com/drac00l)
 - [Neha Upadhyay]
+- [dencherod](https://github.com/DenCherOd)
 - [jaro36](https://github.com/jaro36/)
 - [Björn Hjorth](https://github.com/Kaffesumpen)
 - [HeavyVin 👓](https://github.com/HeavyVin)
